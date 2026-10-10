@@ -1,5 +1,5 @@
-filters: 
+filters:
   - name: status
-   values: [active,inactive,archived]
-  - name: priority 
- values: [high, medium. low]
+    values: [active, inactive, archived]
+  - name: priority
+    values: [high, medium, low]
